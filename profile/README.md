@@ -9,6 +9,8 @@
 <a href="https://twitter.com/gdscnitw" alt="Follow GDSC NITW on Twitter">
 <img src="https://img.shields.io/twitter/follow/gdscnitw?style=social" /></a>
 
+<a href="https://discord.gg/fga8hUxd8T" alt="Join us on Discord">
+<img src="https://badgen.net/badge/icon/discord?icon=discord&label" /></a>
 <!-- Add more sheilds here. -->
 
 </p>
